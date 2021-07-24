@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bedirhantong
+- 👀 I’m interested in Artificial Intelligence , Maths , Physics and Robotics.
+- 🌱 I’m currently learning Machine Learning.
