@@ -2,6 +2,7 @@
 <h1 align="center">Hi There👋, I'm Bedirhan</h1>
 <h3 align="center">I have been improving myself in CyberSec and Game Developing and also interested in Web 3.0</h3>
 
+<font color="orange">Coffe is how I keep up with '< code />' </font >
 
 - 🌱 I’m currently learning **Frameworks, linux and C# master classes**
 
