@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **anything**
+- 🤝 I’m looking for help with ***anything*** :)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bedirhantong](https://github.com/bedirhantong)
 
