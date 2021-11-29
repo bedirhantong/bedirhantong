@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" align="right" width="400" height="250">
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
-<h3 align="center">I have been improving myself in CyberSec. | also interested in Web 3.0</h3>
+<h3 align="center">I have been improving myself in CyberSec and Game Developing. | also interested in Web 3.0</h3>
 
 
 - 🔭 I’m currently working on **Cyber Security**
