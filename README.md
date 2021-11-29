@@ -16,6 +16,7 @@
 - 💬 Ask me about **C,C#,Java,Tech,Carrier...**
 
 - 📫 How to reach me **bedirhantng@gmail.com**
+- I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
