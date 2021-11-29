@@ -8,12 +8,12 @@
 
 ### Connect with me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg align="left" />][gitlab]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/github.svg align="left" />][github]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg align="left" />][hackerrank]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/medium.svg align="left" />][medium]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg align="left" />] [gitlab]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/github.svg align="left" />] [github]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg align="left" />] [hackerrank]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/medium.svg align="left" />] [medium]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg align="left" />] [linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg align="left" />] [instagram]
 
 <br />
 <br />
