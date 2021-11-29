@@ -3,11 +3,9 @@
 <h3 align="center">I have been improving myself in CyberSec and Game Developing and also interested in Web 3.0</h3>
 
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🌱 I’m currently learning **Frameworks, linux and C# master classes**
 
-- 🌱 I’m currently learning **Frameworks and linux master classes**
-
-- 👯 I’m looking to collaborate on [open source projects](open source projects)
+- 👯 I’m looking to collaborate on open source projects
 
 - 🤝 I’m looking for help with **anything**
 
