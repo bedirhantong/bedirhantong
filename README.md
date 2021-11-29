@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, linux and C# master classes**
 
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **anything**
 
