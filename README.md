@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/V2ojLo7PvhVug/source.gif" align="center" width="450" height="250">
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
 <h3 align="center">I have been improving myself in CyberSec. | also interested in Web 3.0</h3>
 
