@@ -4,7 +4,7 @@
 
 🤓I’m currently learning **Frameworks, linux and C# master classes**.👾 I’m looking to collaborate on **open source projects**.🤝 I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
--📫 How to reach me **bedirhantng@gmail.com**
+-📫 How to reach me **cengbedirhantong@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
