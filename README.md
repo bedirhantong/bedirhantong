@@ -42,15 +42,15 @@
 
 
 
-[ gitlab ] https://gitlab.com/bedirhantong
+[gitlab] https://gitlab.com/bedirhantong
 
-[ hackerrank ] https://www.hackerrank.com/tbedirhan159
+[hackerrank] https://www.hackerrank.com/tbedirhan159
 
-[ medium ] https://medium.com/@bedirhantng
+[medium] https://medium.com/@bedirhantng
 
-[ github ] https://github.com/bedirhantong
+[github] https://github.com/bedirhantong
 
-[ linkedin ] https://www.linkedin.com/in/bedirhan-tong-aaa0851b2/
+[linkedin] https://www.linkedin.com/in/bedirhan-tong-aaa0851b2/
 
-[ instagram ] https://www.instagram.com/bedirhantng/?hl=tr
+[instagram] https://www.instagram.com/bedirhantng/?hl=tr
  
