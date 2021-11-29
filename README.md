@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/BdghqxNFV4efm/giphy.gif" align="right" width="400" height="250">
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
-<h3 align="center">I have been improving myself in CyberSec and also interested in Web 3.0</h3>
+<h3 align="center">I have been improving myself in CyberSec. | also interested in Web 3.0</h3>
 
 - 🔭 I’m currently working on **Cyber Security**
 
@@ -21,8 +21,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/bedirhan-tong-aaa0851b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bedirhan-tong-aaa0851b2" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bedirhan tonğ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bedirhan tonğ" height="30" width="40" /></a>
 <a href="https://instagram.com/bedirhantng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedirhantng" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bedirhantng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bedirhantng" height="30" width="40" /></a>
 <a href="https://medium.com/@bedirhantng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bedirhantng" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bedirhantng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bedirhantng" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tbedirhan159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tbedirhan159" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bdoxlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bdoxlr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,5 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&locale=en&theme=nightowl" alt="bedirhantong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bedirhantong&" alt="bedirhantong" /></p>
-
- 
