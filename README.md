@@ -2,19 +2,11 @@
 <h1 align="center">Hi There👋, I'm Bedirhan</h1>
 <h3 align="center">I have been improving myself in CyberSec and Game Developing and also interested in Web 3.0</h3>
 
-<font color="orange">Coffe is how I keep up with '< code />' </font >
-
 - 🌱 I’m currently learning **Frameworks, linux and C# master classes**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with ***anything*** :)
-
-- 👨‍💻 All of my projects are available at [https://github.com/bedirhantong](https://github.com/bedirhantong)
-
-- 📝 I regularly write articles on [https://medium.com/@bedirhantng](https://medium.com/@bedirhantng)
-
-- 💬 Ask me about **C,C#,Java,Tech,Carrier...**
 
 - 📫 How to reach me **bedirhantng@gmail.com**
 - I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
