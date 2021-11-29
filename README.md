@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bedirhantng](https://medium.com/@bedirhantng)
 
-- 💬 Ask me about **Python,Java,Tech,Carrier...**
+- 💬 Ask me about **C,C#,Java,Tech,Carrier...**
 
 - 📫 How to reach me **bedirhantng@gmail.com**
 
