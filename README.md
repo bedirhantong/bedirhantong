@@ -7,13 +7,15 @@
 <font color="orange">Coffe is how I keep up with '< code />' </font >
 
 ### Connect with me
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gitlab.svg" align="left" />][gitlab]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/hackerrank.svg" align="left" />][twitter]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][medium]
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg align="left" />] [gitlab]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/github.svg align="left" />] [github]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg align="left" />] [hackerrank]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/medium.svg align="left" />] [medium]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg align="left" />] [linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg align="left" />] [instagram]
+
+
+
 
 <br />
 <br />
@@ -39,18 +41,9 @@
 
 
 
-
-
-
 [gitlab] https://gitlab.com/bedirhantong
-
 [hackerrank] https://www.hackerrank.com/tbedirhan159
-
 [medium] https://medium.com/@bedirhantng
-
-[github] https://github.com/bedirhantong
-
 [linkedin] https://www.linkedin.com/in/bedirhan-tong-aaa0851b2/
-
 [instagram] https://www.instagram.com/bedirhantng/?hl=tr
  
