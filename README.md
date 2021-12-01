@@ -2,7 +2,7 @@
 <h1 align="center">Hi There👋, I'm Bedirhan</h1>
 <h3 align="center">I have been improving myself in CyberSec and Game Developing and also interested in Web 3.0</h3>
 
-🤓I’m currently learning **Frameworks, linux and C# master classes**.👾 I’m looking to collaborate on **open source projects**.🤝 I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
+🤓I’m currently learning **Frameworks, linux and C# master classes**.👾I’m looking to collaborate on **open source projects**.🤝I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
 -📫 How to reach me **cengbedirhantong@gmail.com**
 
