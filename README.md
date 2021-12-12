@@ -6,6 +6,7 @@
 
 -📫 How to reach me **cengbedirhantong@gmail.com**
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=bedirhantong) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
