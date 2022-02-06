@@ -1,6 +1,5 @@
 <img src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" align="right" width="400" height="250">
-<h1 align="center">Hi There👋, I'm Bedirhan</h1>
-<h3 align="center">I have been improving myself in CyberSec and Backend.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&duration=2000&center=true&width=500&lines=Hi+There%F0%9F%91%8B%2C+I'm+Bedirhan;Open+source+makes+us+better+programmer;I'm+interested+in+CyberSec+and+Backend+;Always+learning+new+things)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&lines=Always+learning+new+things;Open+source+makes+us+better+programmer)](https://git.io/typing-svg)
 
