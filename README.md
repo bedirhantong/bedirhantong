@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" align="right" width="400" height="250">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&lines=Always+learning+new+things;Open+source+makes+us+better+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&size=30&duration=2000&center=true&width=700&lines=Hi+There%F0%9F%91%8B%2C+I'm+Bedirhan;Open+source+makes+us+better+programmer;I'm+interested+in+CyberSec+and+Backend+;Always+learning+new+things)](https://git.io/typing-svg)
 
 🤓I’m currently learning **Frameworks, linux and C# master classes**.👾I’m looking to collaborate on **open source projects**.🤝I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
