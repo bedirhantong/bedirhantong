@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&size=22&center=true&width=500&lines=Hi+There%F0%9F%91%8B%2C+I'm+Bedirhan;Open+source+makes+us+better+programmer;I'm+interested+in+CyberSec+and+Backend+;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&size=22&center=true&width=500&lines=Hi+There%F0%9F%91%8B%2C+I'm+Bedirhan;Open+source+makes+us+better+programmer;I'm+interested+in+Backend+;Always+learning+new+things)](https://git.io/typing-svg)
 <img src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" align="right" width="400" height="250">
 
 
@@ -26,8 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&locale=en&theme=nightowl" alt="bedirhantong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D
-" alt="bedirhantong" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 
 
 
