@@ -24,7 +24,6 @@
 
 
 
-<!-- https://github.com/bedirhantong/github-activity-readme -->
 <details>
   
 
