@@ -29,7 +29,7 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="bedirhantong's Activity Graph" src="https://bedirhantong-activity-graph.herokuapp.com/graph/?username=bedirhantong&bg_color=0x011627&color=0x011627&line=0xc792ea&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="bedirhantong's Activity Graph" src="https://bedirhantong-activity-graph.herokuapp.com/graph/?username=bedirhantong&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
