@@ -29,7 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D
 " alt="bedirhantong" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bedirhantong&bg_color=000000&color=ffffff&line=2a7ea2&point=a09898&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bedirhantong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
