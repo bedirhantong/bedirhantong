@@ -29,7 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D
 " alt="bedirhantong" /></p>
 
-[(https://activity-graph.herokuapp.com/graph?username=bedirhantong&theme=dracula)]
 
 
 
