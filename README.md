@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&lines=Always+learning+new+things;Backend+<3;Open+source+makes+us+better+programmer)](https://git.io/typing-svg)
 
-🤓I’m currently learning **Frameworks, linux and C# master classes**.👾I’m looking to collaborate on **open source projects**.🤝I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
+🤓I’m currently learning **Frameworks, linux and Java master classes**.👾I’m looking to collaborate on **open source projects**.🤝I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
 -📫 How to reach me **cengbedirhantong@gmail.com**
 
