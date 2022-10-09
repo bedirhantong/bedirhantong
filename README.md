@@ -30,7 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=dark" alt="bedirhantong" /></p>
 
 
-<a href="https://activity-graph.herokuapp.com/graph?username=bedirhantong&theme=github"><img alt="bedirhantong's Activity Graph" src="https://bedirhantong-activity-graph.herokuapp.com/graph/?username=bedirhantong&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![bedirhantong's github activity graph](https://activity-graph.herokuapp.com/graph?username=bedirhantong&theme=github)](https://github.com/bedirhantong/github-readme-activity-graph)
+
 
 
 
