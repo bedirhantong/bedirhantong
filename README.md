@@ -26,7 +26,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl)
 
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=dark" alt="bedirhantong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=nightowl" alt="bedirhantong" /></p>
 
 
 [![bedirhantong's github activity graph](https://activity-graph.herokuapp.com/graph?username=bedirhantong&theme=nightowl)](https://github.com/bedirhantong/github-readme-activity-graph)
