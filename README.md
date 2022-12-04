@@ -25,5 +25,3 @@
 <p align = center><img src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
