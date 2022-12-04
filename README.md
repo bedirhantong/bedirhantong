@@ -22,9 +22,4 @@
 
 <h2 align = center>GitHub Stats</h2>
 <p align = center><img src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl" alt="GitHub Stats"></p>
-<p align = center><img src="https://streak-stats.demolab.com?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
-
-
-
-
-
+<p align = center><img src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
