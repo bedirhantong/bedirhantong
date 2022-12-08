@@ -23,3 +23,4 @@
 <h2 align = center>GitHub Stats</h2>
 <p align = center><img src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
 
+[![My user statistics](images/userstats.svg)](https://github.com/bedirhantong/user-statistician)
