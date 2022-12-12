@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/fc8vjg5dxqkMM/giphy.gif" align="right" width="400" height="250">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2347DCFF&lines=Always+learning+new+things;FLutter+<3;Open+source+makes+us+better+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1250&width=435&lines=Hi%2C+there.+I+am+Bedirhan.;Becoming+A+Mobile+Developer;Collaborate+on+open+source+projects)](https://git.io/typing-svg)
 
 🤓I’m currently learning **Mobile application developing basics and clone projects**.👾I’m looking to collaborate on **open source projects**.🤝I’m looking for help with ***anything*** 💪I enjoy being challenged and working on new projects. I am always trying to learn new skills and development techniques ;)
 
