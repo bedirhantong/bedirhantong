@@ -1,6 +1,4 @@
-<img src="https://i.gifer.com/2DV.gif" align="right" width="400" height="250">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1250&&width=435&lines=Hi%2C+there.+I+am+Bedirhan.;Becoming+A+Mobile+Developer;Collaborate+on+open+source+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1250&center=true&width=435&lines=Hi%2C+there.+I+am+Bedirhan.;Becoming+A+Mobile+Developer;Collaborate+on+open+source+projects)](https://git.io/typing-svg)
 
 🤓I’m currently learning **Mobile application developing with Kotlin and Flutter.**.👾Also working on **open source projects**.🤝I’m looking for help with ***my public repositories*** 💪
 
