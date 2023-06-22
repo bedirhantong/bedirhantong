@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/fc8vjg5dxqkMM/giphy.gif" align="right" width="400" height="250">
+[<img src="https://media0.giphy.com/media/fc8vjg5dxqkMM/giphy.gif" align="right" width="400" height="250">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1250&width=435&lines=Hi%2C+there.+I+am+Bedirhan.;Becoming+A+Mobile+Developer;Collaborate+on+open+source+projects)](https://git.io/typing-svg)
 
@@ -28,3 +28,4 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+](https://github.com/bedirhantong/bedirhantong.git)https://github.com/bedirhantong/bedirhantong.git
