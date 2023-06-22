@@ -25,7 +25,3 @@
 <p align = center><img src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl" alt="GitHub Stats"></p>
 <p align = center><img src="https://streak-stats.demolab.com/?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
 
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
