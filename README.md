@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/fc8vjg5dxqkMM/giphy.gif" align="right" width="400" height="250">
+<img src="https://i.gifer.com/2DV.gif" align="right" width="400" height="250">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1250&&width=435&lines=Hi%2C+there.+I+am+Bedirhan.;Becoming+A+Mobile+Developer;Collaborate+on+open+source+projects)](https://git.io/typing-svg)
 
@@ -24,4 +24,3 @@
 <h2 align = center>GitHub Stats</h2>
 <p align = center><img src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl" alt="GitHub Stats"></p>
 <p align = center><img src="https://streak-stats.demolab.com/?user=bedirhantong&theme=nightowl" alt="GitHub Stats"></p>
-
