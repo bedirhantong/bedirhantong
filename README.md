@@ -21,4 +21,4 @@
 
 <h2 align = center>GitHub Stats</h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl"/><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&layout=compact&theme=nightowl"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&theme=nightowl"/><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&layout=compact&theme=nightowl"/>
