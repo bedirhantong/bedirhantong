@@ -22,7 +22,7 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="51.5%" align="center">
+<td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bedirhantong&theme=nightowl&show_icons=true&count_private=true" />
   <br></br>
@@ -30,7 +30,7 @@
 
 </td>
 
-<td width="48.5%" align="center">
+<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bedirhantong&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
