@@ -25,12 +25,13 @@
     <h2 align=center> My Featured Applications </h2>
 </div>
 
-<div align=center>
-  <a href="storelinkhere"><img width=150 src="assets/images/pht.png"></a>
-  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png"></a>
-  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>
-  <a href="storelinkhere"><img width=150 src="assets/images/bar.png"></a> 
+<div align="center">
+  <a href="storelinkhere"><img width=150 src="assets/images/pht.png" style="margin-right: 20px;"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png" style="margin-right: 20px;"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png" style="margin-right: 20px;"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/bar.png"></a>
 </div>
+
 
 <h3 align="center">
   <a href="https://github.com/bedirhantong/PersonalHealthTrackerApp">Personal Health Tracker</a> |
