@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3500&pause=500&center=true&width=435&lines=Hi+I'm+Bedirhan+Ton%C4%9F;Full+Stack+Mobile+App+Developer;Currently+Learning+.Net" alt="Typing SVG" /></a>
 
@@ -12,11 +13,31 @@
     <summary><h2 style="display: inline-block">Technologies that I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,ai,figma,firebase,git&perline=8" />
   </a>
 </p>
+<br>
+
+<div>
+    <h2 align=center> My Featured Applications </h2>
+</div>
+
+<div align=center>
+  <a href="storelinkhere"><img width=150 src="assets/images/pht.png"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/bar.png"></a> 
+</div>
+
+<h3 align="center">
+  <a href="https://github.com/bedirhantong/PersonalHealthTrackerApp">Personal Health Tracker</a> |
+  <a href="https://github.com/bedirhantong/threads_clone">Threads Clone App</a> |
+  <a href="https://github.com/bedirhantong/quizwiz">Quizz Wizdom</a> |
+  <a href="https://github.com/bedirhantong/flutter_barista">Interactive Barista</a>
+</h3>
 
 
 <p align="center">
