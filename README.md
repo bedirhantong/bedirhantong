@@ -26,11 +26,12 @@
 </div>
 
 <div align="center">
-  <a href="storelinkhere"><img width=150 src="assets/images/pht.png" style="margin-right: 20px;"></a>
-  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png" style="margin-right: 20px;"></a>
-  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png" style="margin-right: 20px;"></a>
+  <a href="storelinkhere"><img width=150 src="assets/images/pht.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="storelinkhere"><img width=150 src="assets/images/bar.png"></a>
 </div>
+
 
 
 <h3 align="center">
@@ -54,7 +55,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bedirhantong&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bedirhantong&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
 
   </td>
 </tr>
