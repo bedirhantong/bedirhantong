@@ -4,9 +4,9 @@
 
 🤓I’m currently learning **Mobile application developing with Kotlin and Flutter.**.👾Also working on **open source projects**.🤝I’m looking for help with ***my public repositories*** 💪
 
--📫 How to reach me **bedirhantongdev@gmail.com**
+-📫 How to reach me **bedirhantongdev@gmail.com** 
 
-
+-🔥 You can also visit my portfolio website from [here](https://bedirhantong.github.io/#/).
 
 <div id="user-content-toc">
   <ul align="center">
@@ -54,7 +54,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bedirhantong&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
+
   </td>
 </tr>
 </table>
