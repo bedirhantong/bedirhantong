@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,ai,figma,firebase,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,dotnet,git,firebase,ai,&perline=8" />
   </a>
 </p>
 <br>
