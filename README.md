@@ -1,12 +1,9 @@
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3500&pause=500&center=true&width=435&lines=Hi+I'm+Bedirhan+Ton%C4%9F;Full+Stack+Mobile+App+Developer;Currently+Learning+.Net" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=800&center=true&random=false&width=435&lines=Hi+I+am+Bedirhan+Tong;Software+Developer;Currently+Learning+React.js" /></a>
 
-🤓I’m currently learning **Mobile application developing with Kotlin and Flutter.**.👾Also working on **open source projects**.🤝I’m looking for help with ***my public repositories*** 💪
+🤓I’m currently learning **Web application developing with React.js and Flutter.**.👾Also working on **open source projects**.🤝I’m looking for help with **_my public repositories_** 💪
 
--📫 How to reach me **bedirhantongdev@gmail.com** 
-
--🔥 You can also visit my portfolio website from [here](https://bedirhantong.github.io/#/).
+-📫 How to reach me **bedirhantongdev@gmail.com**
 
 <div id="user-content-toc">
   <ul align="center">
@@ -16,47 +13,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,dotnet,git,firebase,ai,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,react,flutter,dotnet,git,firebase,ai,&perline=4" />
   </a>
 </p>
 <br>
 
-<div>
-    <h2 align=center> My Featured Applications </h2>
-</div>
 
-<div align="center">
-  <a href="storelinkhere"><img width=150 src="assets/images/pht.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/bar.png"></a>
-</div>
-
-
-
-<h3 align="center">
-  <a href="https://github.com/bedirhantong/PersonalHealthTrackerApp">Personal Health Tracker</a> |
-  <a href="https://github.com/bedirhantong/threads_clone">Threads Clone App</a> |
-  <a href="https://github.com/bedirhantong/quizwiz">Quizz Wizdom</a> |
-  <a href="https://github.com/bedirhantong/flutter_barista">Interactive Barista</a>
-</h3>
-
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bedirhantong&theme=nightowl&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/pin/?username=bedirhantong&repo=threads_clone&theme=nightowl&hide_border=false" /> 
-
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bedirhantong&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
-
-  </td>
-</tr>
-</table>
