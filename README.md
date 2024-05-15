@@ -3,7 +3,9 @@
 
 🤓I’m currently learning **Web application developing with React.js**.👾Also working on **open source projects**.🤝I’m looking for help with **_my public repositories_** 💪
 
--📫 How to reach me **bedirhantongdev@gmail.com**
+- How to reach me **bedirhantongdev@gmail.com**
+- Here is my [portfolio]([https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md](https://bedirhantong.vercel.app/)).
+  
 
 <div id="user-content-toc">
   <ul align="center">
