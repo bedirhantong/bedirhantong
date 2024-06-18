@@ -31,12 +31,11 @@
 </div>
 
 <div align="center">
-  <a href="storelinkhere"><img width=150 src="assets/images/pht.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/threadss.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="assets/images/favorites.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/NewsApp_Compose/master/assets/light_home_screen.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a>&nbsp;&nbsp;&nbsp;<a href="storelinkhere"><img width=200 src="https://github.com/bedirhantong/RickMortyMovie/raw/master/assets/images/episodes.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bedirhantong/PersonalHealthTrackerApp"><img width=150 src="assets/images/pht.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bedirhantong/threads_clone"><img width=150 src="assets/images/threadss.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bedirhantong/quizwiz"><img width=150 src="assets/images/quizz.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bedirhantong/Dish-Dash"><img width=150 src="assets/images/favorites.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bedirhantong/NewsApp_Compose"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/NewsApp_Compose/master/assets/light_home_screen.png"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/bedirhantong/health_tourism_app"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a>&nbsp;&nbsp;&nbsp;
 
 
 </div>
@@ -47,8 +46,7 @@
   <a href="https://github.com/bedirhantong/PersonalHealthTrackerApp">Personal Health Tracker</a> |
   <a href="https://github.com/bedirhantong/threads_clone">Threads Clone App</a> |
   <a href="https://github.com/bedirhantong/quizwiz">Quizz Wizdom</a> |
-  <a href="https://github.com/bedirhantong/Dish-Dash">Store App</a> 
-  <a href="https://github.com/bedirhantong/NewsApp_Compose">News App</a> 
+  <a href="https://github.com/bedirhantong/Dish-Dash">Store App</a> |
+  <a href="https://github.com/bedirhantong/NewsApp_Compose">News App</a> |  
   <a href="https://github.com/bedirhantong/health_tourism_app">Health Tourism App</a> 
-  <a href="https://github.com/bedirhantong/RickMortyMovie">Rick and Morty App</a> 
 </h3>
