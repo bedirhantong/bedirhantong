@@ -36,9 +36,7 @@
   <a href="storelinkhere"><img width=150 src="assets/images/quizz.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="storelinkhere"><img width=150 src="assets/images/favorites.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="storelinkhere"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/NewsApp_Compose/master/assets/light_home_screen.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="storelinkhere"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a>&nbsp;&nbsp;&nbsp;
-
-<a href="storelinkhere"><img width=200 src="https://github.com/bedirhantong/RickMortyMovie/raw/master/assets/images/episodes.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="storelinkhere"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a>&nbsp;&nbsp;&nbsp;<a href="storelinkhere"><img width=200 src="https://github.com/bedirhantong/RickMortyMovie/raw/master/assets/images/episodes.png"></a>&nbsp;&nbsp;&nbsp;
 
 
 </div>
