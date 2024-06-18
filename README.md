@@ -30,14 +30,14 @@
     <h2> My Featured Applications </h2>
     <table>
         <tr>
-            <td><a href="https://github.com/bedirhantong/PersonalHealthTrackerApp"><img width=150 src="assets/images/pht.png"></a></td>
-            <td><a href="https://github.com/bedirhantong/threads_clone"><img width=150 src="assets/images/threadss.png"></a></td>
-            <td><a href="https://github.com/bedirhantong/quizwiz"><img width=150 src="assets/images/quizz.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/PersonalHealthTrackerApp"><img width=180 src="assets/images/pht.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/threads_clone"><img width=180 src="assets/images/threadss.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/quizwiz"><img width=180 src="assets/images/quizz.png"></a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/bedirhantong/Dish-Dash"><img width=150 src="assets/images/favorites.png"></a></td>
-            <td><a href="https://github.com/bedirhantong/NewsApp_Compose"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/NewsApp_Compose/master/assets/light_home_screen.png"></a></td>
-            <td><a href="https://github.com/bedirhantong/health_tourism_app"><img width=150 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/Dish-Dash"><img width=180 src="assets/images/favorites.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/NewsApp_Compose"><img width=180 src="https://raw.githubusercontent.com/bedirhantong/NewsApp_Compose/master/assets/light_home_screen.png"></a></td>
+            <td><a href="https://github.com/bedirhantong/health_tourism_app"><img width=180 src="https://raw.githubusercontent.com/bedirhantong/health_tourism_app/main/assets/images/home/trends_home_1.png"></a></td>
         </tr>
     </table>
 </div>
