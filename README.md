@@ -24,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,javascript,ts,git,firebase,ai,&perline=4" />
   </a>
 </p>
-<br>
 
 <div align="center">
     <h2> My Featured Applications </h2>
