@@ -3,7 +3,7 @@
 
 🧐 Hello, I am Bedirhan Tonğ, I am a Mobile Application developer who loves innovation.
 
-👾 Currently, I am developing both mobile apps with Kotlin, Flutter and React Native and web apps with React.js as a hobby. I make customisable designs in line with the possibilities offered by Kotlin.
+👾 Currently, I am developing native mobile apps with Kotlin. I make customisable designs in line with the possibilities offered by Kotlin.
 
 
 
