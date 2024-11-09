@@ -10,7 +10,7 @@
 
 
 - How to reach me **bedirhantongdev@gmail.com**
-- Here is my [portfolio](https://bedirhantong.vercel.app/).
+- Here is my [portfolio]([https://bedirhantong.vercel.app/](https://bedirhantongdev.vercel.app/)).
 
 
   
