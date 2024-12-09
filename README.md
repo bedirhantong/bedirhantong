@@ -31,9 +31,3 @@
 
 <a href="https://github.com/bedirhantong?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bedirhantong&theme=dark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="50%" alt="@bedirhantong's github-readme-stats"/></a><a href="https://github.com/bedirhantong?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="@bedirhantong's github-readme-streak-stats"/></a>
 </p>
-
-<p align="center">
-    <a href="graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedirhantong&bg_color=000000&color=ffffff&line=ffffff&point=69b06d&area=true&hide_border=true" alt="Contribution graph">
-    </a>
-</p>
