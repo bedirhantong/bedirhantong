@@ -3,9 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&random=false&width=435&lines=Hi+I+am+Bedirhan+Tong;Mobile+App+Developer" alt="Typing SVG" /></a>
 
-🧐 Hello, I am Bedirhan Tonğ, I am a Mobile Application developer who loves innovation.
-
-👾 Currently, I am developing native mobile apps with Kotlin. I make customisable designs in line with the possibilities offered by Kotlin.
+👾 Hi, I am Bedirhan Tong. I am 4rd year Computer Engineering student at Akdeniz University. My dream is to become a Full Stack Software Developer. Recently, I have been developing applications with Kotlin and React Native.
 
 
 
