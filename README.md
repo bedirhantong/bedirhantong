@@ -29,3 +29,10 @@
 
 <a href="https://github.com/bedirhantong?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bedirhantong&theme=dark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="50%" alt="@bedirhantong's github-readme-stats"/></a><a href="https://github.com/bedirhantong?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedirhantong&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="@bedirhantong's github-readme-streak-stats"/></a>
 </p>
+
+---
+
+### 📝 Latest Blog Posts
+
+- [Microsoft Authentication Library (MSAL) in Android](https://bedirhantongdev.vercel.app/blog/microsoft-authentication-library-msal-in-android)
+
