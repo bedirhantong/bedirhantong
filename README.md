@@ -1,4 +1,3 @@
-![](./assets/images/github-showcase.png)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&random=false&width=435&lines=Hi+I+am+Bedirhan+Tong;Mobile+App+Developer" alt="Typing SVG" /></a>
