@@ -35,3 +35,9 @@
 
 - [Microsoft Authentication Library (MSAL) in Android](https://bedirhantongdev.vercel.app/blog/microsoft-authentication-library-msal-in-android)
 
+---
+
+### 📱 Latest App Release
+
+- ✅ **Simple & Elegant ToDo App** – [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.appvalence.todo)  
+  <sub>(Built with Kotlin, Jetpack Compose, Clean Architecture)</sub>
