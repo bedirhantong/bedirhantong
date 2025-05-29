@@ -1,4 +1,3 @@
-g
 <p align="center">
 
 👾 Hi, I am Bedirhan Tong. I am 4rd year Computer Engineering student at Akdeniz University. My dream is to become a Full Stack Software Engineer. Recently, I have been developing applications with Kotlin and React Native.
