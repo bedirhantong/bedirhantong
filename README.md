@@ -7,21 +7,6 @@
 - How to reach me **bedirhantongdev@gmail.com**
 - Here is my [portfolio](https://bedirhantongdev.vercel.app/).
 
-
-  
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies that I am thrilled about👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,react,flutter,java,git,firebase,ai,&perline=4" />
-  </a>
-</p>
-
 ---
 
 ### 📝 Latest Blog Posts
