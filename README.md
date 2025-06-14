@@ -1,6 +1,8 @@
 <p align="center">
+  
+👾 Hi, I'm Bedirhan Tong — a Computer Engineering graduate from Akdeniz University, passionate about becoming a Full Stack Software Engineer.
 
-👾 Hi, I am Bedirhan Tong. I am 4rd year Computer Engineering student at Akdeniz University. My dream is to become a Full Stack Software Engineer. Recently, I have been developing applications with Kotlin and React Native.
+I develop cross-platform mobile apps using Kotlin and React Native, focusing on clean architecture and smooth user experience. I enjoy building real-world projects and constantly improving my skills in both frontend and backend development.
 
 
 
