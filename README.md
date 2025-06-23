@@ -7,7 +7,7 @@ I develop cross-platform mobile apps using Kotlin and React Native, focusing on 
 
 
 - How to reach me **bedirhantongdev@gmail.com**
-- Here is my [portfolio](https://bedirhantongdev.vercel.app/).
+- Here is my [portfolio]([https://bedirhantongdev.vercel.app/](https://bedirhantongdev.web.app/)).
 
 ---
 
