@@ -11,6 +11,14 @@ I develop cross-platform mobile apps using Kotlin and React Native, focusing on 
 
 ---
 
+<br />
+<table><tr><td  width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td  width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&hide_border=true&count_private=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table> 
+
 ### 📝 Latest Blog Posts
 
 - [Microsoft Authentication Library (MSAL) in Android](https://bedirhantongdev.vercel.app/blog/microsoft-authentication-library-msal-in-android)
