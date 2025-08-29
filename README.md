@@ -16,7 +16,7 @@ I develop cross-platform mobile apps using Kotlin and React Native, focusing on 
 <img src="https://github-readme-stats.vercel.app/api?username=bedirhantong&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
 <td  width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&hide_border=true&count_private=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhantong&hide_border=true&count_private=false&layout=compact" align="left" style="width: 100%" />
 </td></tr></table> 
 
 ### 📝 Latest Blog Posts
