@@ -25,6 +25,14 @@ I develop cross-platform mobile apps using Kotlin and React Native, focusing on 
 
 ---
 
+### 💡 Open Source Initiative: HAYAT KURTAR (In Development)
+
+- 🚨 **HAYAT KURTAR** – **Disaster Communication Solution (Beta Test)**
+  <sub>(An application built on Open Source, designed to enable **offline communication** via Mesh Network when cellular networks fail during disasters.)</sub>
+- **Full Video Presentation:** [Watch the Project Introduction on YouTube](https://www.youtube.com/watch?v=TJNHAlWNp80)
+
+---
+
 ### 📱 Latest App Release
 
 - ✅ **Simple & Elegant ToDo App** – [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.appvalence.todo)  
